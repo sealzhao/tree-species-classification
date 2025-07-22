@@ -1,0 +1,9 @@
+*.npy
+*.pt
+*.ckpt
+__pycache__/
+*.log
+*.csv
+*.zip
+env/
+.vscode/
