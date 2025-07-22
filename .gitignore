@@ -9,3 +9,24 @@ env/
 .vscode/
 *.pkl
 *.pkl
+# Ignore large files and intermediate outputs
+*.pkl
+*.pt
+*.log
+*.zip
+*.csv
+*.npz
+*.npy
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Conda environments (if local)
+miniconda3/envs/
